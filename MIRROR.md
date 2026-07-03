@@ -1,6 +1,6 @@
-# HITL.md
+# MIRROR.md
 
-This document captures my current mental model while I'm the human in the agentic coding loop.
+This document mirrors my current mental model while I'm the human in the agentic coding loop.
 I own this file completely, aggressively updating and ruthlessly compressing it as the project progresses.
 This keeps me from losing the plot while away, and shows the agent where my head is at.
 This file is NOT a spec, NOT a log, NOT exhaustive, and definitely NOT for the agent to edit.
