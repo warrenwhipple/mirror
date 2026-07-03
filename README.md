@@ -1,6 +1,6 @@
 # MIRROR.md template
 
-`MIRROR.md` is a human owned mental mirror for agents to see and check.
+`MIRROR.md` is a human-owned mental mirror that agents check but never edit.
 
 The file: [`MIRROR.md`](MIRROR.md)
 
