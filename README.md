@@ -4,8 +4,8 @@
 
 The file: [`MIRROR.md`](MIRROR.md)
 
-Context / writeup: [warrenwhipple.com/mirror](https://warrenwhipple.com/mirror)
+Prototype agent skill: [`skills/mirror-check/SKILL.md`](./skills/mirror-check/SKILL.md)
 
-Discuss: [GitHub thread](https://github.com/warrenwhipple/mirror/discussions/1)
+Writeup: [warrenwhipple.com/mirror](https://warrenwhipple.com/mirror)
 
 Note: renamed 2026-07-03 `HITL.md` to `MIRROR.md`, see writeup.
