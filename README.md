@@ -4,7 +4,7 @@
 
 The file: [`MIRROR.md`](MIRROR.md)
 
-Prototype agent skill: [`skills/mirror-check/SKILL.md`](./skills/mirror-check/SKILL.md)
+Prototype agent skill: [`warrenwhipple/skills/mirror-check`](https://github.com/warrenwhipple/skills/tree/main/skills/mirror-check)
 
 Writeup: [warrenwhipple.com/mirror](https://warrenwhipple.com/mirror)
 
